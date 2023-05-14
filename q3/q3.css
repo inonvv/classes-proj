@@ -1,0 +1,22 @@
+
+body{
+    display: flex;
+    flex-direction: column;
+}
+
+.times{
+    display: flex;
+    width: 30vw;
+    flex-direction: column;
+    justify-content: center;
+    align-items: left;
+    padding-bottom: 10px;
+
+}
+
+#clocks{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
