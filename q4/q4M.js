@@ -62,7 +62,7 @@ function Main() {
     tr.appendChild(tdP);
     tr.appendChild(tdX);
     tr.appendChild(tdY);
-    tdP.innerHTML = points[i].show();
+    tdP.innerHTML = points[0].show();
     tdX.innerHTML = points[i].PointX;
     tdY.innerHTML = points[i].PointY;
   }

@@ -13,8 +13,6 @@ function Main() {
         window.clearInterval(IntervalId);
       }
     }, 500);
-
-    // for (let i = 0; i < (f1.Age * f1.Weight) / 2; i++) {}
   });
 }
 Main();

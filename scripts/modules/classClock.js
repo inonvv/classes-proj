@@ -55,6 +55,7 @@ export class Clock {
     
     </div>`;
   }
+
   checkforZero(ints) {
     if (ints < 10) {
       return ints.toString().padStart(2, "0");
